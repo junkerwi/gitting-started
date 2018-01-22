@@ -5,27 +5,35 @@ Fill in the text below with your own answers to each question. Each person in yo
 What are your names as they appear on the class roster?
 > ...
 Willem Junker
+Garrett Wang
 What do you prefer to be called?
-> ...
 Will
+Garrett
+
 What are your GitHub usernames?
-> ...
 junkerwi
+wyk9787
+
 Why are you taking this course?
-> ...
 Required
+OS is fun! Low-level programming and systems are interesting topics I want to learn more in the future
+
 Do you have any concerns about this course?
-> ...
 I've heard that there's a big work load for OS classes
+Not much.
+
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
 Virtual memory
+Distributed system
+
 Do you have any questions about the course?
-> ...
 Not yet
+No
+
 Do you have any other questions for me?
-> ...
 Nope
+Nope
+
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
