@@ -4,45 +4,54 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names as they appear on the class roster?
 > ...
-
+Willem Junker
 What do you prefer to be called?
 > ...
-
+Will
 What are your GitHub usernames?
 > ...
-
+junkerwi
 Why are you taking this course?
 > ...
-
+Required
 Do you have any concerns about this course?
 > ...
-
+I've heard that there's a big work load for OS classes
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > ...
-
+Virtual memory
 Do you have any questions about the course?
 > ...
-
+Not yet
 Do you have any other questions for me?
 > ...
-
+Nope
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
 > ...
-
+Participation
+    10%
+Assignments
+    15%
+Project
+    25%
+Labs
+    50% 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
 > ...
-
+No penalty for regular class, however a lab will require a permission slip
 What happens if you turn in a lab late?
 > ...
-
+Labs will be penalized one full letter grade (10%) for each day they are late.
 On what day will you give a presentation on your final project for this course?
 > ...
-
+April 24
 Where can you find our course textbook?
 > ...
-
+http://pages.cs.wisc.edu/~remzi/OSTEP/
 When are you free during my scheduled office hours?
 > ...
+10-10:50 M
+All day W
